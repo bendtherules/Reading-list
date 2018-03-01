@@ -20,7 +20,7 @@ In short, this is a highly opinionated list of resources that I would be happy t
 
     **Beware** - it is a pretty outdated book, filled with older way of doing things - so you need to know what you are looking for.
 
-3. Cascading Style Sheets: The Definitive Guide by Eric Meyer *****
+3. [Cascading Style Sheets: The Definitive Guide](https://www.amazon.in/gp/aw/d/1449393195/) by Eric Meyer *****
 
     This is the most awesome book on CSS. It is a hardcore, specification-for-masses kind of book. It explains every detailed mathematical calculation that goes into deciding what to render/show from the css properties we provide. If you feel like css properties are just a few knobs that you turn until things look right, then this will teach you what turning those knobs really do and in effect, which ones to actually turn.
 
