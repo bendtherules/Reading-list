@@ -1,6 +1,6 @@
 # Reading-list
 
-This is a small effort to list down the resources that I liked while learning a specific technology. 
+This is a small effort to list down the resources that I liked (with my comments and rating) while learning a specific technology. 
 
 I like going through authorative/bible-style documentation and books while learning. Finding that gem takes a bit of time, but I often lose track of those perfect books/links when I want to go through them again or suggest to my friends.
 
@@ -27,3 +27,13 @@ In short, this is a highly opinionated list of resources that I would be happy t
     If not anything, you'll learn to appreciate the complexity behind css. It is a must read for everyone, but some people might be turned off by its dryness.
 
     The author, Eric Meyer himself worked on css specifications - his [blog](https://meyerweb.com/eric/css/) and all of his books are worth a read. 4th edition of this book comes as a full book as well as many Chapterwise mini-books - printed books are hardly available in India, its better to go for a digital ebook on this one.
+
+### JavaScript
+
+### TypeScript
+
+### Python
+
+### C#
+
+### OpenXML
