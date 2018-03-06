@@ -27,3 +27,15 @@ In short, this is a highly opinionated list of resources that I would be happy t
     If not anything, you'll learn to appreciate the complexity behind css. It is a must read for everyone, but some people might be turned off by its dryness.
 
     The author, Eric Meyer himself worked on css specifications - his [blog](https://meyerweb.com/eric/css/) and all of his books are worth a read. 4th edition of this book comes as a full book as well as many Chapterwise mini-books - printed books are hardly available in India, its better to go for a digital ebook on this one.
+
+4. [CSS3: The Missing Manual](https://www.amazon.in/CSS3-Missing-David-Sawyer-McFarland/dp/9351100251) ****
+
+    First things first, putting this book at the end of this list probably doesn't do it justice. It is a great book on its own, but I have personally always used it as a finishing touch to complement the previous book. It's a great practitioners' book covering the whole wide range of modern css topics (like advanced selectors, print css and media queries) with huge focus on practical use cases. 
+    
+    From content coverage viewpoint, it covers wider range of topics while the previous one covers lesser topics with much more depth. Skimming through this book helps you fill all the gaps (topics which are very useful in day-to-day use, but probably dont require the same depth of understanding like selector specificity) left from reading just the previous book.
+
+5. [CSS-TRICKS](https://css-tricks.com)
+
+    It is a great resourceful website by Chris Coyier (https://chriscoyier.net/) filled with lot of articles covering practical css dev problems and few deep articles in css concepts, plus a great [CSS reference](https://css-tricks.com/almanac/) (think, better MDN for CSS; Sorry, MDN!). It also has paid content, but I have never explored that section.
+   
+   If you ever have to search for something like "css three panel layout with same height", this is probably where you'll land up anyway.
