@@ -39,3 +39,13 @@ In short, this is a highly opinionated list of resources that I would be happy t
     It is a great resourceful website by Chris Coyier (https://chriscoyier.net/) filled with lot of articles covering practical css dev problems and few deep articles in css concepts, plus a great [CSS reference](https://css-tricks.com/almanac/) (think, better MDN for CSS; Sorry, MDN!). It also has paid content, but I have never explored that section.
    
    If you ever have to search for something like "css three panel layout with same height", this is probably where you'll land up anyway.
+   
+### Javascript
+
+1. [Professional JavaScript for Web Developers](https://www.amazon.in/Professional-JavaScript-Developers-Nicholas-Zakas-ebook/dp/B006PW2URI) *****
+
+    It is one of those detailed but slightly outdated books, which goes into a lot of details about object, prototypes, inheritance, data types, etc. It is very useful to understand how modern prototype inheritance patterns came to be. Its written by Nicholas C. Zakas, who was then a Yahoo engineer and later built eslint - which is very widely used today. I suggest reading this book for the core JS concepts and then topping it up with YDKJS for newer ES6/ES7 constructs.
+    
+2. [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+
+    The modern standard Javascript book, which is available for free reading on Github. Reading every chapter of this book is pleasantly surprising, as you really learn something new even if you think you already know that concept. I specially liked its treatment of scope and closure, spread and rest operator, arrow functions, promises, async and generators. This is a must read for intermediate and advanced developers.
